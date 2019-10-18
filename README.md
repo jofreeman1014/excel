@@ -35,7 +35,7 @@ Finally, I decided to see if there were any trends per year with the data. The g
 
 Finally, I was tasked to see how the goal range influenced the success/failure/cancellation rate for Kickstarter projects in general. As seen above, the most successful projects tend to have a lower goal.
 
-Success also trumps failure until approximately the $15,000 - $19,999 range, where failure rate rises above failure rate. Success also plummets towards the upper range of the data, suggesting projects with lofty goals succeed far less often than they fail or are cancelled outright.
+Success also trumps failure until approximately the $15,000 - $19,999 range, where failure rate rises above success rate. Success also plummets towards the upper range of the data, suggesting projects with lofty goals succeed far less often than they fail or are cancelled outright.
 
 While completing this assignment, I was given three questions to keep in mind:
 
