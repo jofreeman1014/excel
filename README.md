@@ -43,10 +43,10 @@ While completing this assignment, I was given three questions to keep in mind:
    * According to the data, most Kickstarter campaigns tend to focus on media and entertainment (Music, Theater, Technology, and Film & Video are the top 5), with most of the successful campaigns coming from the Theater/Plays category and subcategory. 
    * Lower cost projects tend to reach their goals more successfully compared to projects that require large sums. 
 
-2. What are some limitations of this dataset?
+2. **What are some limitations of this dataset?**
    * One limitation for this dataset that the dataset does not account for tiered donations. Some Kickstart campaigns offer incentives to donors depending on how much they donate, which can range from a simple thank you to personalized items or even shares in the company in some cases. I would’ve liked to see this information, if possible, to see how if there are tends in tier popularity based on its cost, and to see if this information agrees with the calculated average donation value I calculated, though I doubt it would agree entirely.
 
-3. What are some other possible tables and/or graphs that we could create?
+3. **What are some other possible tables and/or graphs that we could create?**
    * I could dig even deeper to see if staff-pick and spotlights have any impact on the successfulness of a project as well. I could also analyze the duration of each project to see if success rates vary if a project has a long donation window or a shorter one. 
 
 Please feel free to delve into the included Excel workbook for more.
