@@ -4,7 +4,7 @@ This assignment focuses on using VBA scripting to analyze real stock market data
 ### Files
 This assignment focused on using two data sources. [Test Data](Resources/alphabtical_testing.xlsx) was used to develop VBS scripts that were then translated to work within the included [Stock Data](Resources/Multiple_year_stock_data.xlsx) file for final reports.
 
-### Techniques Used:
+### Techniques Used
 * Create a script that will loop through one year of stock data for each run and return the total volume each stock had over that year and the ticker symbol to coincide with the total stock volume.
 
 ![first_solution](Images/easy1.PNG)
