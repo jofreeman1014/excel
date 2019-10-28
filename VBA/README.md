@@ -7,7 +7,7 @@ This assignment focused on using two data sources. [Test Data](Resources/alphabt
 ### Techniques Used:
 * Create a script that will loop through one year of stock data for each run and return the total volume each stock had over that year and the ticker symbol to coincide with the total stock volume.
 
-![first_solution](Images/easy1.png)
+![first_solution](Images/easy1.PNG)
 
 
 
@@ -19,7 +19,7 @@ This assignment focused on using two data sources. [Test Data](Resources/alphabt
   
   * Include conditional formatting that will highlight positive change in green and negative change in red.
 
-![second_solution](Images/multyear14.png)
+![second_solution](Images/multyear14.PNG)
 
 ### Copyright
 
